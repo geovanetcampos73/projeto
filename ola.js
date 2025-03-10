@@ -1,4 +1,6 @@
-alert('Ol  mundo');
+alert('OlÃ¡ mundo');
 alert('teste de git'); 
 let a="100";
-leb b="20";
+let b="20";
+alert('Mensagem de teste:',a);
+alert('mensagem de teste:',b);
