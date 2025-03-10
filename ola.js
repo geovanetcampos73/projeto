@@ -1,1 +1,2 @@
-"alert('Ol  mundo')" 
+alert('Ol  mundo');
+alert('teste de git'); 
